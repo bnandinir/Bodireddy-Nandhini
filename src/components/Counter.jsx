@@ -8,7 +8,8 @@ function Counter(){
       <button onClick={() => setCount((count) => count+1)}>
       count is {count}
       </button>
-      <h1> this</h1>
+      <h1> Click Here</h1>
+      <p>This is a simple counter component</p>
     </div>
     </>
   )
